@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Git became ready to track changes in files. Because tracking all files by default is unefficient.
