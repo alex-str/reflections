@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 Git became ready to track changes in files. Because tracking all files by default is unefficient.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area different from working directory because can contain not all files in working directory. The staging area different from repository because contain only files to track but not a tracking history. It is necessary because we can track not all files in working directory.
