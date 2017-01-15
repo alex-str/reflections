@@ -5,3 +5,23 @@ Git became ready to track changes in files. Because tracking all files by defaul
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 The staging area different from working directory because can contain not all files in working directory. The staging area different from repository because contain only files to track but not a tracking history. It is necessary because we can track not all files in working directory.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+I can add to the staging area all files witch include one logical change.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+There are situations when need to make experiment or parallelal version. Branches help to switch beetwen diffrent version.
+
+How do the diagrams help you visualize the branch structure?
+
+The diagrams show branch structure like a tree.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result is all changes in both branches. For better understanding.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+The autimatic merging does routine work and person can do manual merging rarely .
