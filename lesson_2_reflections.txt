@@ -25,3 +25,7 @@ The result is all changes in both branches. For better understanding.
 What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
 
 The autimatic merging does routine work and person can do manual merging rarely .
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+Because I may want to use current local version of code instead of taking one from GitHub.
